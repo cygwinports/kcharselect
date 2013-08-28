@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kcharselect"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE character map"
+DESCRIPTION="Part of the KDE utilities suite"
